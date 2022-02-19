@@ -1,1 +1,1 @@
-# alpchart.io
+# sample.io
